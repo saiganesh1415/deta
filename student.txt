@@ -1,0 +1,9 @@
+Student name = k saiganesh
+student reg = 12220887
+student roll = 66
+student collegr = lovely proffessional university
+
+student tenth class details 
+student marks = 573
+student school = high school
+
