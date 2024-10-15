@@ -5,5 +5,6 @@ student collegr = lovely proffessional university
 
 student tenth class details 
 student marks = 573
-student school = high school
+
+
 
